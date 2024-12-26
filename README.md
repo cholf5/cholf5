@@ -9,6 +9,16 @@
 
 </div>
 
+# Hi, I'm Cholf
+I am a programmer with more than ten years of game development experience, an avid gamer and game development enthusiast, and I also have a strong interest in web development. I currently work in a large game company in Shanghai, and I plan to retire in 5 years and do independent development full-time. Due to my wide range of interests, my independent development will include both games and non-games. Wish me good luck & stay tuned!
+
+# Anonymous
+This is an associated account of the anonymous Twitter account [@cholf5](https://x.com/cholf5). It can basically be considered as a continuation of the Twitter account, where some information that is not convenient to put on Twitter is placed. Since it is anonymous, this account does not have many repo and commit activities, and will not reveal any personal information. However, some blogs and long tweets will be written in [random issues](https://github.com/cholf5/random/issues).
+
+Although this is an anonymous account, my personal preferences and my observations of the world will be written in my tweets in large quantities. Welcome to follow.
+
+In addition, it is not ruled out that I will do some open source projects or fun tool projects in this account in the future.
+
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
